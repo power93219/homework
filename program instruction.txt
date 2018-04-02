@@ -1,0 +1,9 @@
+2012083005 ÀÌÁö¿ë
+
+This is a program that turns on the LED automatically 
+when an object is approaching, 
+and turns off when it moves away.
+People sometimes can't see the lanes when driving at night.
+So we can use this program to turn on the LED when the car gets
+closer to its lane.
+
